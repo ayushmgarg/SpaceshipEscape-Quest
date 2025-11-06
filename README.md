@@ -88,7 +88,7 @@ git clone https://github.com/yourusername/SpaceshipEscape-Quest.git
 
 ## Video Demo
 
-![Demo Video](./my_video_comp.mp4)
+<video src="./my_video_comp.mp4" width="600" controls>A video demonstration of the Spaceship Escape VR game</video>
 
 You can see the spaceship, the movement, and the treasures. You'll also see why I can't actually grab anything lol.
 
